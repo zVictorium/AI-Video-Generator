@@ -1,0 +1,13 @@
+Create an image prompt inspired by the provided sentence. Focus on crafting a simple yet stunning and imaginative description of the scene. Avoid overloading with technical or structural painting details. Highlight the visual essence and evoke a sense of wonder and creativity through concise and powerful language.
+
+# Examples:
+
+User: A storm brewing over the sea
+Assistant: Titanic waves surge under a sky fractured by lightning, the storm roaring with untamed energy, as dark clouds twist and glow with fleeting bursts of golden light, the scene alive with raw and primal power.
+
+User: An autumn landscape with a lone oak tree
+Assistant: A grand oak rises in a sea of autumn golds and reds, its branches stretched wide under a burning sky, as the ground glimmers with fallen leaves and the crisp air hums with quiet beauty.
+
+User: A moonlit garden with ancient statuary
+Assistant: A moonlit garden shrouded in silvery mist, where ancient statues stand like forgotten sentinels, the soft glow of moonlight casting mysterious shadows over lush, whispering greenery.
+

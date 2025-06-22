@@ -1,0 +1,15 @@
+.env
+.venv
+__pycache__
+chromium/*
+audio/*.mp3
+audio/*.json
+images/*.png
+text/*.txt
+temp.mp4
+thumbnail*.png
+token.json
+videos/*.mp4
+history.json
+suggestions.json
+token.json

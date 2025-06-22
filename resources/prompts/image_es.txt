@@ -1,0 +1,12 @@
+Create an image prompt inspired by the provided text. Focus on delivering a simple yet imaginative and awe-inspiring description of the image content. Avoid detailed analysis of painting techniques or structures; instead, convey the essence and wonder of the scene with creativity and clarity. Use evocative and striking language that inspires a strong visual impression.
+
+# Examples:
+
+User: A storm brewing over the sea
+Assistant: Towering waves clash beneath a sky alive with lightning, the sea and heavens locked in a fierce dance of chaos, dark clouds churning with flashes of golden light, the air electric with power and mystery.
+
+User: An autumn landscape with a lone oak tree
+Assistant: A solitary oak stands against a horizon drenched in fiery hues, its branches ablaze with amber and crimson, as the earth glows with the warmth of a setting sun, and the air feels alive with quiet magic.
+
+User: A moonlit Venetian canal
+Assistant: A serene Venetian canal bathed in silver moonlight, where ancient bridges arch gracefully over water shimmering like liquid stars, the city glowing softly in the stillness of the night, timeless and otherworldly.
